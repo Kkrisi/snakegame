@@ -1,2 +1,0 @@
-# snakegame
-SnakeGame In Python
