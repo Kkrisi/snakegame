@@ -1,0 +1,1 @@
+To run the file(game) successfully, you need to download pygame. Type the next code in the cmd: pip install pygame
